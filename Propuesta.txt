@@ -1,0 +1,6 @@
+¿Cómo usaría la IA en tu área de ingeniería?
+Como ya habiamos reflexionado, la IA es una herramienta de busqueda, de lo más avanzado en estos años, con un gran repositorio de informacion 
+que nos ayudaría a concretar tareas que, de manera general y viendo le cáracter humano, demandan mucho más tiempo del que deberían, 
+en la ingeniería electronica, podemos utilizarlo en proyectos multidisciplinarios, como ingenieria, parte de mi trabajo tambien es conocer
+los limites del uso de herramientas, pero en este caso, podria ser para la investigacion de elementos que no conocemos en nuestro proyecto
+como el uso de algun objeto que no sepamos utilizar, datos que desconozcamos, etc, en terminos muy generales, es un ayuda con multiples caminos a seguir. 
